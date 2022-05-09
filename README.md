@@ -1,3 +1,9 @@
+# newton-button
+
+Recreation of the button at [Newton](https://www.newton.co/). 
+
+<img width="1102" alt="image" src="https://user-images.githubusercontent.com/56516912/167429180-3313a4e8-3c5d-4f4d-9b0d-011352dfb498.png">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
